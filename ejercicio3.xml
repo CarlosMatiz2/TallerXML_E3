@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<!DOCTYPE productos SYSTEM "ejercicio3.dtd">
+<productos>-->
+
+<productos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio3.xsd">
+    <producto>
+        <raton>
+            <codigo>001</codigo>
+            <nombre>Logitech G105</nombre>
+        </raton>
+        <teclado>
+            <codigo>002</codigo>
+            <descripcion>Teclado mecánico</descripcion>
+        </teclado>
+        <monitor>
+            <codigo>003</codigo>
+            <nombre>LG</nombre>
+        </monitor>
+    </producto>
+</productos>
